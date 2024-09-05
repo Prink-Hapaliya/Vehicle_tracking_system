@@ -25,8 +25,8 @@ Ensure you have [conda](https://docs.conda.io/en/latest/miniconda.html) installe
 1. **Clone the repository**
 
     ```sh
-    git clone https://github.com/jaybhalala01/p-hack-2024.git
-    cd p-hack-2024
+    git clone https://github.com/Prink-Hapaliya/Vehicle_tracking_system.git
+    cd Vehicle_tracking_system
     ```
 
 2. **Create a new environment with conda**
